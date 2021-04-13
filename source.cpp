@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cstring>
+#include <cstring> //This header file defines several functions to manipulate C strings and arrays.
 
 using namespace std;
 
